@@ -12,8 +12,8 @@ margin-right: auto;
 border: 1px solid black;
 border-radius: 10px;
 box-shadow:black
-border: 1px solid black;
-color:rgb(236, 238, 130)
+border 1px solid black;
+color:yellow
 
 }
 
@@ -32,9 +32,8 @@ div.row1 div {
         height: 10px;
     }
     
-{
-    box-sizing: border-box;
-}
+
+
 
 Img{
     border: black;
@@ -47,4 +46,3 @@ Img{
         margin-right: auto;
         width: 50%;
       }
-}
