@@ -4,3 +4,47 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+table,td,th{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+border: 1px solid black;
+border-radius: 10px;
+box-shadow:black
+border: 1px solid black;
+color:rgb(236, 238, 130)
+
+}
+
+Body{
+    background-color: rgb(170, 181, 241);
+    text-align: center;
+}
+
+div.row1 div {
+    background-color: lightblue;
+    height: 100px;
+    text-align: center;
+    border: 1px solid black;
+}
+    div.spacer {
+        height: 10px;
+    }
+    
+{
+    box-sizing: border-box;
+}
+
+Img{
+    border: black;
+}
+
+.center{
+
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+      }
+}
