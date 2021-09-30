@@ -1,23 +1,23 @@
-.jumbotron{
+.jumbotron {
     background-image: url("img/branden.jpg");
     height: 450px;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-table,td,th{
-text-align: center;
-margin-left: auto;
-margin-right: auto;
-border: 1px solid black;
-border-radius: 10px;
-box-shadow:black
-border 1px solid black;
-color:yellow
-
+table,
+td,
+th {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-radius: 10px;
+    box-shadow: black border 1px solid black;
+    color: yellow
 }
 
-Body{
+Body {
     background-color: rgb(170, 181, 241);
     text-align: center;
 }
@@ -28,21 +28,22 @@ div.row1 div {
     text-align: center;
     border: 1px solid black;
 }
-    div.spacer {
-        height: 10px;
-    }
-    
+
+div.spacer {
+    height: 10px;
+}
 
 
 
-Img{
+
+Img {
     border: black;
 }
 
-.center{
+.center {
 
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 50%;
-      }
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
